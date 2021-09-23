@@ -1,0 +1,15 @@
+.formin {
+    text-align: center;
+}
+
+
+/* .images {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+} */
+
+.input {
+    /* margin-left: 40%; */
+    width: 20%;
+}
